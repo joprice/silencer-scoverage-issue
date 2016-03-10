@@ -1,0 +1,22 @@
+sigar/
+services/**/sigar
+rest-api/sigar
+**/native
+.classpath
+**/.DS_Store
+.project
+.settings/
+mock-services/**/sigar
+target/
+project/target
+.cache
+.idea
+.idea_modules
+*.iml
+
+# temporary vim files
+*swp
+*swo
+..sxr
+
+dev-op/temporary-scripts/deploy.jar
